@@ -3,7 +3,7 @@
 
 В набор для игры в пентамино входят 12 фигур разной формы, состоящих из 5 единичных квадратов. Используя каждую фигуру из набора только один раз необходимо покрыть ими поле из 60 клеток.
 
-![image](https://user-images.githubusercontent.com/99526918/202173115-08065590-5341-4504-baf6-b5cf733e6c73.png)
+![Пимеры собранных полей для игры в классическле пентамино](https://user-images.githubusercontent.com/99526918/202173115-08065590-5341-4504-baf6-b5cf733e6c73.png)
 
 ***
 
@@ -13,11 +13,11 @@
 3. Визуализировать процесс работы алгоритма.
 
 ## Создание поля и фигур. ##
-![image](https://user-images.githubusercontent.com/99526918/202173375-62d7917f-995a-41bc-b09b-5e834931b04e.png)
+![Создание пустого поля из массива нулей](https://user-images.githubusercontent.com/99526918/202173375-62d7917f-995a-41bc-b09b-5e834931b04e.png)
 
-![image](https://user-images.githubusercontent.com/99526918/202173447-f2010522-e1a6-49ba-94ce-c53ad039a071.png)
+![Создание фигур](https://user-images.githubusercontent.com/99526918/202173447-f2010522-e1a6-49ba-94ce-c53ad039a071.png)
 
-![image](https://user-images.githubusercontent.com/99526918/202173541-84557f8d-1beb-4ee6-8119-a4d1ae42841e.png)
+![Учитывание поворотов и симметрий фигур](https://user-images.githubusercontent.com/99526918/202173541-84557f8d-1beb-4ee6-8119-a4d1ae42841e.png)
 
 ## Алгоритм поиска с возвратом для сборки пентамино. ##
 **1 шаг.**
@@ -51,11 +51,11 @@
 
 ## Визуализация работы алгоритма поиска с возвратом. ##
 
-![image](https://user-images.githubusercontent.com/99526918/202174672-72cd4f6d-33e6-46a9-a3e1-deca0ed57329.png)
+![Этапы представления массива в 2D и 3D](https://user-images.githubusercontent.com/99526918/202174672-72cd4f6d-33e6-46a9-a3e1-deca0ed57329.png)
 
-![image](https://user-images.githubusercontent.com/99526918/202175401-e32ad336-fd97-4b08-ab78-9d40e6178ed9.png)
+![Все шаги процесса выполнения алгоритма](https://user-images.githubusercontent.com/99526918/202175401-e32ad336-fd97-4b08-ab78-9d40e6178ed9.png)
 
-![image](https://user-images.githubusercontent.com/99526918/202175361-ebba2ba9-da56-4d40-94f4-425348b1182d.png)
+![Анимация, отображающая процесс выполнения алгоритма](https://user-images.githubusercontent.com/99526918/202175361-ebba2ba9-da56-4d40-94f4-425348b1182d.png)
 
 ***
 КУРСОВАЯ РАБОТА по дисциплине: «Системы компьютерной математики»
